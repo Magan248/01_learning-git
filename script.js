@@ -1,2 +1,4 @@
 
-console.log(Hi dear boy anant)
+console.log("hii")
+console.log("hello world")
+console.log("Object")
